@@ -1,5 +1,4 @@
-Prot16 colour schemes for XFCE4 Terminal
-========================================
+# Prot16 colour schemes for XFCE4 Terminal
 
 "Prot16" is a collection of themes that use a 16-colour palette. Each item is available in distinct light and dark variants. For more, see https://protesilaos.com/schemes
 
