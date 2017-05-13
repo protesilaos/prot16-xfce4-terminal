@@ -14,7 +14,7 @@ git clone git@github.com:protesilaos/prot16-xfce4-terminal.git ~/.local/share/xf
 
 ### 2. Manually
 
-Download the [latest release](https://github.com/protesilaos/prot16-xfce4-terminal/releases/tag/v0.1.0) and extract the contents into the following directory (create it if it does not exist):
+Download the [latest release](https://github.com/protesilaos/prot16-xfce4-terminal/releases) and extract the contents into the following directory (create it if it does not exist):
 
 ```
 ~/.local/share/xfce4/terminal/colorschemes
