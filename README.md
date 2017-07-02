@@ -9,7 +9,7 @@
 Enter the following command in your terminal:
 
 ```
-git clone git@github.com:protesilaos/prot16-xfce4-terminal.git ~/.local/share/xfce4/terminal/colorschemes --depth 1
+git clone https://github.com/protesilaos/prot16-xfce4-terminal.git ~/.local/share/xfce4/terminal/colorschemes --depth 1
 ```
 
 ### 2. Manually
