@@ -12,6 +12,16 @@ Open a new terminal and add the following command. This will download and then r
 wget -qO- https://raw.githubusercontent.com/protesilaos/prot16-xfce4-terminal/master/install-prot16-xfce-terminal.sh | sh
 ```
 
+## Removal
+
+### With install script
+
+Run the following command
+
+```shell
+wget -qO- https://raw.githubusercontent.com/protesilaos/prot16-xfce4-terminal/master/remove-prot16-xfce-terminal.sh | sh
+```
+
 ## Usage
 
 Open the Xfce4 Terminal, navigate to `Preferences` > `Colours`. The themes should be available in the `Presets` section.
