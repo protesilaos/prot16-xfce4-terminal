@@ -60,7 +60,7 @@ do
     fi
 done
 
-Prepare installation
+# Prepare installation
 echo "${greenfg}=> Installing ...${colourreset}"
 
 for theme in $(ls ${temp_repo} | find ${temp_repo} -name '*.theme')
