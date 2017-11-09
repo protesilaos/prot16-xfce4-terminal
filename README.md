@@ -14,7 +14,7 @@ wget -qO- https://raw.githubusercontent.com/protesilaos/prot16-xfce4-terminal/ma
 
 ## Removal
 
-### With install script
+### With remove script
 
 Run the following command
 
