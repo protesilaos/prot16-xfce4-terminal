@@ -4,6 +4,10 @@
 
 ## Installation
 
+### Distro package
+
+If you use Arch Linux or derivatives, you can get these themes from the [AUR](https://aur.archlinux.org/packages/prot16-xfce4-terminal/).
+
 ### With install script
 
 Open a new terminal and add the following command. This will download and then run the install script. The script will copy all the `.theme` files into their relevant location, specifically `/usr/share/xfce4/terminal/colorschemes/`. It requires sudo privileges.
@@ -33,7 +37,6 @@ GNU General Public Licence Version 3
 ## Roadmap (help is much appreciated)
 
 - Debian/Ubuntu package
-- Arch/AUR package
 
 ## More resources
 
